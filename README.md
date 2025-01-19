@@ -19,7 +19,7 @@ Broadly I would want to come out of this class with a better technical understan
 
 # Portfolio
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
@@ -27,8 +27,11 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 
 ## Final project
 In 2021, I created two reports for the Nassau County Comptroller: Sustainability 2030 Master Plan and The Deal for Gen Z: Changing Demographics in Nassau County. Both of these reports skimmed the surface of data visualizations. For my project, I want to tell the story of how Nassau County's demographics---and therefore needs---are changing.
+
 [Part I](final-project-part-one)
+
 [Part II](final-project-part-two)
+
 Part III(final-project-part-three)
 
 ---

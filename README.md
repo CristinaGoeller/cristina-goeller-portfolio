@@ -3,7 +3,7 @@
 # Welcome! 
 This is my public portfolio for Telling Stories with Data at CMU!  After my final project is complete, I'll upload all the cool work I have done during my time here at Heinz. 
 
-LinkedIn: https://www.linkedin.com/in/cristinagoeller/
+[LinkedIn Link](https://www.linkedin.com/in/cristinagoeller/)
 
 # About me
 Hi! I'm Cristina(she/her)---a second-year Masters Public Policy and Management student at Carnegie Mellon University. I'm from Long Beach, New York. It's a small, barrier island-city off Long Island. We are mainly known for our beach and producing some A1 surfers and swimmers. It's a cool spot to hang out in the summer---we're a 45 minute LIRR ride from Manhattan! Outside of school I surf, kickbox, cook, and play too many instruments to list here. 

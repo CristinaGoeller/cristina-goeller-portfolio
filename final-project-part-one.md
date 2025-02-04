@@ -30,11 +30,12 @@ There are two main sources of data for understanding the major analysis of this 
 
 | Name | URL | Description |
 |------|-----|-------------|
-|National Historical Graphical Information System | https://data2.nhgis.org/main https://andrewcmu-my.sharepoint.com/:f:/g/personal/cgoeller_andrew_cmu_edu/Eltzq0kqOzVAs45dnFMQshEBmN_Yp5oP7-elv0afHp-G7w?e=sIllIh | The first is the National Historical GIS Repository. That data set organizes census data both spatially and on a time scale. For this project it would be helpful to create maps that will analyze housing affordability based on socio-economic factors. This data is publically available through the first link; However it needed to be filtered to get the correct information which I attached in the second link. |
+|National Historical Graphical Information System | https://data2.nhgis.org/main 
+https://andrewcmu-my.sharepoint.com/:f:/g/personal/cgoeller_andrew_cmu_edu/Eltzq0kqOzVAs45dnFMQshEBmN_Yp5oP7-elv0afHp-G7w?e=sIllIh | The first is the National Historical GIS Repository. That data set organizes census data both spatially and on a time scale. For this project it would be helpful to create maps that will analyze housing affordability based on socio-economic factors. This data is publically available through the first link; However it needed to be filtered to get the correct information which I attached in the second link. |
 |Federal Department of Housing and Urban Development | https://www.huduser.gov/portal/datasets/cp.html#query_2006-2021  | The Federal Department of Housing and Urban Development dataset portal. This dataset pulls from 1 and 5 year estimates of the American Community Survey to organize county level data on affordability. This will have to be separated into multiple tables (delineating between renters and homeowners). |
 
 # Method and medium
-I will be using ArcGIS and Tableau to complete the major components of this project. GIS will be used to understand spatial & statistical relationships between location and affordability. Because GIS does not provide enough options to follow good design principles when accessing statistical relationships, Tableau can be used supplementally. 
+This project has a four week timeline. I will also be using anectdotes from community members to enhance the storytelling aespect of the story. As for the medium, I will be using ArcGIS and Tableau to complete the major components of this project. GIS will be used to understand spatial & statistical relationships between location and affordability. Because GIS does not provide enough options to follow good design principles when accessing statistical relationships, Tableau can be used supplementally. 
 
 There is also this tool (linked below) that will create maps usng certain components of historical data pulled from NHGIS. However, because there is less control over the manipulation of the data, I will probably pull the raw data (linked above) into GIS. 
 

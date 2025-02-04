@@ -2,7 +2,7 @@
 
 
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
+ 
 # Outline
 
 This project aims to investigate the housing affordability crisis in Nassau County, NY, and how it has been intensified by the 2008 recession and Hurricane Sandy in 2012. It seeks to understand how these events have disproportionately impacted different communities, particularly focusing on racial disparities, and how recovery efforts have addressed or worsened existing inequalities. Moreover, this will also explore the concept of housing affordability, including the 30% rule for renters and the 28% rule for homeowners, and how these metrics apply to Nassau County. The project will analyze historical data and current trends to advocate for a more equitable and resilient future for housing in the region.

@@ -30,8 +30,7 @@ There are two main sources of data for understanding the major analysis of this 
 
 | Name | URL | Description |
 |------|-----|-------------|
-|National Historical Graphical Information System | https://data2.nhgis.org/main 
-https://andrewcmu-my.sharepoint.com/:f:/g/personal/cgoeller_andrew_cmu_edu/Eltzq0kqOzVAs45dnFMQshEBmN_Yp5oP7-elv0afHp-G7w?e=sIllIh | The first is the National Historical GIS Repository. That data set organizes census data both spatially and on a time scale. For this project it would be helpful to create maps that will analyze housing affordability based on socio-economic factors. This data is publically available through the first link; However it needed to be filtered to get the correct information which I attached in the second link. |
+|National Historical Graphical Information System | https://data2.nhgis.org/main https://shorturl.at/nQabc |  The first is the National Historical GIS Repository. That data set organizes census data both spatially and on a time scale. For this project it would be helpful to create maps that will analyze housing affordability based on socio-economic factors. This data is publically available through the first link; However it needed to be filtered to get the correct information which I attached in the second link.  |
 |Federal Department of Housing and Urban Development | https://www.huduser.gov/portal/datasets/cp.html#query_2006-2021  | The Federal Department of Housing and Urban Development dataset portal. This dataset pulls from 1 and 5 year estimates of the American Community Survey to organize county level data on affordability. This will have to be separated into multiple tables (delineating between renters and homeowners). |
 
 # Method and medium

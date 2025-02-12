@@ -4,7 +4,7 @@
 ## Step one: the visualization
 <img width="812" alt="image" src="https://github.com/user-attachments/assets/ca1f84a9-46bf-4c7e-a6ca-0ff79fe528b6" />
 
-New York Times Link(https://www.nytimes.com/interactive/2025/02/01/business/economy/mexico-china-canada-imports-tariffs.html)
+[New York Times Link]([url](https://www.nytimes.com/interactive/2025/02/01/business/economy/mexico-china-canada-imports-tariffs.html))
 
 ## Step two: the critique
 This chart attempts to show the changing composition of what country US imports are coming from overtime.It is clear that Mexico and Canada has overtaken the exports.  I do believe they start the time scale in the 90s because that is where the trade agreement started---and this works very well. Having it overtime to see the impact of the policy is a very cool idea, but I had to read the article in order to understand that fact. In other words, it is treated as a nuance when it should be front and center. They use a description note at the bottom to describe they chose any country with an above 2% share of imports. While this gives the reader insight into the scale of the graph, I think the space would be better used to describe the trade agreement made between CA, MX and the US. Those not in the present day top 3 are highlighted in a color while those 2% are in grey. I think this also works well, but I would make those small importers into one category "Other."
@@ -68,17 +68,17 @@ In this second iteration, I attempted to simplify the graph and hone the topic. 
 
 ## Step five: build the solution
 
-<div class='tableauPlaceholder' id='viz1739387312441' style='position: relative'><noscript><a href='#'><img alt='Share of Imports to US by Country (1994 - 2024)Tarrifs impact the makeup of  countries the US gets its goods from, but does not lead to less spending on imports overall.  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ta&#47;TariffRedo&#47;RedotoUpload&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TariffRedo&#47;RedotoUpload' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ta&#47;TariffRedo&#47;RedotoUpload&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>     
-<script type='text/javascript'>           
-  var divElement = document.getElementById('viz1739387312441');         
-  var vizElement = divElement.getElementsByTagName('object')[0];          
-  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';        
-  var scriptElement = document.createElement('script');            
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';        
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);      
+<div class='tableauPlaceholder' id='viz1739389239056' style='position: relative'><noscript><a href='#'><img alt='Share of Imports to US by Country (1994 - 2024)Tarrifs impact the makeup of  countries the US gets its goods from, but does not lead to less spending on imports overall.  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MakeoverMondayTarrifsandSpentonImports&#47;RedotoUpload2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MakeoverMondayTarrifsandSpentonImports&#47;RedotoUpload2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MakeoverMondayTarrifsandSpentonImports&#47;RedotoUpload2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>           
+<script type='text/javascript'>      
+  var divElement = document.getElementById('viz1739389239056');               
+  var vizElement = divElement.getElementsByTagName('object')[0];           
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';     
+  var scriptElement = document.createElement('script');                
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';   
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);       
 </script>
 
-<https://public.tableau.com/views/TariffRedo/RedotoUpload?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link>
+[Link](https://public.tableau.com/views/MakeoverMondayTarrifsandSpentonImports/RedotoUpload2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **Concluding Thoughts**
 

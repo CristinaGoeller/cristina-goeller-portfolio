@@ -21,26 +21,35 @@ There are three recommendations I have for this graph: First, group all of the 2
 **MEIM Mid-Twenties**
 
 What do you think this is? 
+
 A flowchart with a timeline that shows the percent of imports the US gets from each country.
+
 What do you think it’s telling you? 
-	Some shares of Canadian and Mexican goes up overtime. 
+Some shares of Canadian and Mexican goes up overtime. 
+
 Is there anything you found confusing? 
 The flowchart. I was more focused on how this must've been difficult to make than what it was telling me—it was overly complicated. She noted not knowing where to look. 
+
 Who do you think is the intended audience for this? 
-	People trying to understand how tariffs will impact the US. 
+People trying to understand how tariffs will impact the US. 
+
 Is there anything you would change or do differently? 
 Noted she liked the colors and agreed with what the PPM said about the simplification. 
 
 **MSPPM Mid-Twenties**
 
 What do you think this is? 
-	Timeline of where the US gets its imports from. 
+Timeline of where the US gets its imports from. 
+
 What do you think it’s telling you? 
-	Mexico, Canada and China are in the top 3 and have been that way for a while. 
+Mexico, Canada and China are in the top 3 and have been that way for a while. 
+
 Is there anything you found confusing? 
 Agreed with the flowchart note and added: There aren’t any lines that distinguish between when NAFTA or Tariffs started, so the message is unclear. Also it’s hard to match the year with the final percentage. 
+
 Who do you think is the intended audience for this? 
-	Americans trying to understand where we get our goods from. 
+Americans trying to understand where we get our goods from. 
+
 Is there anything you would change or do differently?
 She noted she would add grid lines to show where trade agreements happened—maybe splicing it into 5 year periods. Also, she would get rid of the flow chart overall to make it an area line chart.
 

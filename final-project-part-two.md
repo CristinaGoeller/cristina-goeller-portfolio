@@ -41,7 +41,7 @@ The target audience is supossed to be Nassau's policymakers to get a better unde
 | **Enhancing data visualization**: Interviewees found the data helpful but suggested making it more engaging and easier to interpret. | Improve visual storytelling by using interactive maps, historical overlays, and before-and-after comparisons to make the data more compelling and accessible. |
 
 
-#Final Thoughts
+## Final Thoughts
 
 Since last week, I reframed how I am approching the story. I ended up interviewing my dad to learn more about how the island has changed from a first person perspective and get some anecdotes to sprinkle throughout the data story. 
 

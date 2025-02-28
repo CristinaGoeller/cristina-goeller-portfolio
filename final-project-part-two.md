@@ -19,8 +19,6 @@ The target audience is supossed to be Nassau's policymakers to get a better unde
 | **General Feedback and Suggestions**       | Do you have any other suggestions or comments?                           |
 
 
-Text here!
-
 ## Interview findings
 
 | Question | MISM Student | Public Policy Student | Community Resident (Nassau) |

@@ -1,7 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> [America's First Suburb: Who was this place mde for?](https://preview.shorthand.com/pyAdHj7NYKjTnuee#group-section-Is-Nassau-County-Middle-Class-jeMGVZXz7P) 
+> [America's First Suburb: Who was this place mde for?]([https://preview.shorthand.com/pyAdHj7NYKjTnuee#group-section-Is-Nassau-County-Middle-Class-jeMGVZXz7P](https://carnegiemellon.shorthandstories.com/whoisthisplacemadefor/index.html)) 
 
 # Changes made since Part II/Final Design Decisions
 > There are two changes I have made since part II. First, the audience where I originally wanted to focus this towards politicians to get them moving on interventions. I ended up switching it to the citizenry of Nassau because I felt awareness and education of these issues is an important first step. In undergrad, I interned at the local Comptroller's office where I authored policy reports detailing issues going on in Nassau. I ended up getting a lot of feedback from citizens explaining their experiences and ideas for interventions. I thought this would be a great edition to that series (unfortunately it does not exist anymore online because of the new comptroller). In order to tailor it in this way, I made the design decisions to highlight key statements in each section to make it more skimmable, and changed the color scheme to Nassau County's colors for branding. 

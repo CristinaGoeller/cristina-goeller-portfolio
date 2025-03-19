@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cristinagoeller.github.io/cristina-goeller-portfolio/) | [MWDBE Businesses: GIS Project](MWDBEBusinesses) | [Vizualizing Tarrifs: Tableau Makeover Monday](TableauRemake) | [Telling Stories with Data: Shorthand](final-project-part-one) | [Advanced GIS Portfolio](AdvancedGISPortfolio) 
 
 # GIS Final Project
 _You can place some of your data viz examples from the course here.  Make sure to include any citations / references / data sources used, and it's probably a good idea to explain what these visualizations show._

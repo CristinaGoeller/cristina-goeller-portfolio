@@ -1,7 +1,8 @@
 | [home page](https://cristinagoeller.github.io/cristina-goeller-portfolio/) | [MWDBE Businesses: GIS Project](MWDBEBusinesses) | [Vizualizing Tarrifs: Tableau Makeover Monday](TableauRemake) | [Telling Stories with Data: Shorthand](final-project-part-one) | [Advanced GIS Portfolio](AdvancedGISPortfolio) 
 
 
-> Important note: This is the documentation for creating "Nassau County: Who is this place made for?" [Explore the story here!]([url](https://carnegiemellon.shorthandstories.com/whoisthisplacemadefor/index.html)) 
+> Important note: This is the documentation for creating
+> [America's First Suburb: Who is this place made for? ](https://carnegiemellon.shorthandstories.com/whoisthisplacemadefor/index.html)
  
 # Outline
 

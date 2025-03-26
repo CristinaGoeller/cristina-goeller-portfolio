@@ -12,9 +12,9 @@ Everything! I really love working with GIS---as frustrating as it can be. I wann
 ## 1. Creating a Custom Google Map for the New York League of Concervation Voters
 ### One Page Bid Link 
 
-Follow this link to see the final bid. 
+[Follow this link to see the final bid.](https://andrewcmu-my.sharepoint.com/:w:/g/personal/cgoeller_andrew_cmu_edu/ETkuZLX3C9tEmqHRgTyVu4UBF2rm1sPqayHMANCPSNR7Hw?e=NrLCfg) 
 
-### Methodology
+### Methodology & How to Use
 
 This map is created for the New York Leauge of Concervation Voters. I interned for them my junior year of undergrad, so I reached out to my former boss to get insights on what kinds of maps they would need in the coming months. They primarily use these maps for two things: visualizing how "green" a region is and traking blighted infrastructure (particularly buildings and led pipes). For the purposes of this assignment, I chose to make it for the more detailed blighted infrastructure. They also have a preference for a darker basemap because it helps to highlight key communities of interest for redevelopment. 
 
@@ -22,6 +22,7 @@ Aubergine was used as a base and the colors were tweaked to have a more natural 
 
 ![image](https://github.com/user-attachments/assets/fb29073c-3a4f-4b24-87c4-2379cce98255)
 
+The materials here can be used in Google Maps, ESRI, and other map making software in order to have a consistent basemap for the organization. The JSON file, linked below, can be uploaded into the software to auto-populate. Another option is to manually input the colors by going into the advanced settings option and following the hex codes in the table.
 
 ### Dark Color Palette with NYLCV Greens
 

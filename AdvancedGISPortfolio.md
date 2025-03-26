@@ -52,12 +52,21 @@ The file to implement the basemap is available here:
 This final section gives an overview of the base map at three levels: 
 
 _Overview of Long Island_
+
+Zoom Estimate: 1:2,000,000
+
 ![image](https://github.com/user-attachments/assets/36386110-8c05-4be2-9c70-b53c02ce0834)
 
 _Overview of New York City_
+
+Zoom Estimate: 1:720,000
+
 ![image](https://github.com/user-attachments/assets/e93ae6b2-023d-416b-b6f6-7d6313cb1384)
 
 _Overview of Lower Manhattan_
+
+Zoom Estimate: 1:60,000
+
 ![image](https://github.com/user-attachments/assets/8d7557be-e4f8-427a-b95f-ba2119d77f03)
 
 

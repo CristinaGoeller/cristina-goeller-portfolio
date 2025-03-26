@@ -49,6 +49,7 @@ The file to implement the basemap is available here:
 [JSON File](https://andrewcmu-my.sharepoint.com/:u:/g/personal/cgoeller_andrew_cmu_edu/EbsGucIc4CFDjBuFDrxKFLUBhq3qaDBTyy_YxmokR-FlSQ?e=ugNcmA)
 
 ### Map at Three Levels
+As established, this map is going to be used to look at blighted infrastructure. Therefore, I used zoom extents that were at the most regional. 
 This final section gives an overview of the base map at three levels: 
 
 _Overview of Long Island_

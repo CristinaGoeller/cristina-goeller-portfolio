@@ -1,6 +1,6 @@
 | [home page](https://cristinagoeller.github.io/cristina-goeller-portfolio/) | [MWDBE Businesses: GIS Project](MWDBEBusinesses) | [Vizualizing Tarrifs: Tableau Makeover Monday](TableauRemake) | [Telling Stories with Data: Shorthand](final-project-part-one) | [Advanced GIS Portfolio](AdvancedGISPortfolio) 
 # Welcome! 
-This is my public portfolio for Telling Stories with Data at CMU!  After my final project is complete, I'll upload all the cool work I have done during my time here at Heinz. 
+This is my online portfolio for all the cool visualizations and stuff I made during my time at Carnegie Mellon! 
 
 [LinkedIn](https://www.linkedin.com/in/cristinagoeller/) 
 

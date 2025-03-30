@@ -7,7 +7,6 @@ Big Bank™ is exploring strategies to address the wealth gap through targeted i
 
 ![image](https://github.com/user-attachments/assets/72cc5d2c-3c76-44f1-9b58-51172eb4e66b)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRSXVxQhwwBQf5FsJeW68iCO2hv_YONSSxhFPV1h3D8SmlRZEOtQU3_CAf6orMOfuZ1UTbo_3MGVE5T/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1920" height="1109" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 

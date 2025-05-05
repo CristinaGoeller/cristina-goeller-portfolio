@@ -1,14 +1,7 @@
-| [home page](https://cristinagoeller.github.io/cristina-goeller-portfolio/) | [MWDBE Businesses: GIS Project](MWDBEBusinesses) | [Vizualizing Tarrifs: Tableau Makeover Monday](TableauRemake) | [Telling Stories with Data: Shorthand](final-project-part-one) | [Advanced GIS Portfolio](AdvancedGISPortfolio) | [Sustainable Business: Case Presentation](SustainableBusiness) | [Cost-Benefit Analysis: Cap&Trade v. Carbon Tax](Cap&TradevCarbonTax)
+| [home page](https://cristinagoeller.github.io/cristina-goeller-portfolio/) | [MWDBE Businesses: GIS Project](MWDBEBusinesses) | [Vizualizing Tarrifs: Tableau Makeover Monday](TableauRemake) | [Telling Stories with Data: Shorthand](final-project-part-one) | [Custom Base Map Creation](AdvancedGISPortfolio) | [Sustainable Business: Case Presentation](SustainableBusiness) | [Cost-Benefit Analysis: Cap&Trade v. Carbon Tax](Cap&TradevCarbonTax)
 
-# Advanced GIS Portfolio
+# Custom Base Map Creation
 
-
-# See my homepage for more about me! 
-
-# What I hope to Learn
-Everything! I really love working with GIS---as frustrating as it can be. I wanna have a better understanding of how long it takes me to complete tasks, and deepen my unerstanding of ESRI products outside of ArcGIS. 
-
-# Portfolio 
 ## 1. Creating a Custom Google Map for the New York League of Concervation Voters
 ### One Page Bid Link 
 
